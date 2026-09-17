@@ -7,7 +7,6 @@
 \components\QC899X\Platform\PLATFORM.SOC_QC899X.LATE_SOC
 
 \components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.BASE
-
 \components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.EXTRAS
 
 \components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.MOBILE_BRIDGE
